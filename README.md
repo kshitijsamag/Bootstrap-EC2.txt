@@ -1,5 +1,3 @@
-# Bootstrap-EC2.txt
-
 
 #!/bin/bash
 sudo su
